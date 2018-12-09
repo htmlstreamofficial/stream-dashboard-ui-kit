@@ -1,0 +1,13 @@
+.DS_Store
+__MACOSX/
+.git/*
+.idea/*
+/gulp/*
+/gulp-tasks/*
+/node_modules/*
+*~
+gulpfile.js
+package.json
+assets/css/*
+index.sublime-workspace
+npm-debug.log

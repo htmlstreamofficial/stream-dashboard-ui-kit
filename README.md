@@ -1,8 +1,8 @@
-# [Stream - UI Kit](https://htmlstream.com/preview/stream-dashboard-ui-kit/index.html) :raised_hands:
+# [Stream - Dashboard UI Kit](https://htmlstream.com/preview/stream-dashboard-ui-kit/index.html) :raised_hands:
 
 [![Stream Dashboard UI Kit - A beautiful Open Source Bootstrap 4 Dashboard UI Kit](http://htmlstream.com/promo-assets/github/stream-admin-cover.png)](http://htmlstream.com/preview/stream-dashboard-ui-kit/)
 
-Stream Dashboard UI Kit is beautiful Open Source Bootstrap 4 UI Kit under MIT license. The UI Kit comes with 19 beautiful complete pages and includes over 50 reusable and customizable UI Components. At the same time It’s super lightweight and only ~24kb when minified.
+Stream Dashboard UI Kit is beautiful Open Source Bootstrap 4 Dashboard UI Kit under MIT license. The UI Kit comes with 19 beautiful complete pages and includes over 50 reusable and customizable UI Components. At the same time It’s super lightweight and only ~24kb when minified.
 
 
 ### Online Documentation

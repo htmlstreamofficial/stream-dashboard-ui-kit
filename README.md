@@ -44,6 +44,6 @@ Malihu Custom Scrollbar |   https://github.com/malihu/malihu-custom-scrollbar-pl
 
 ### Licensed under MIT
 
-Stream UI Kit is Open Source project and licensed under MIT for better Web.
+Stream Dashboard UI Kit is Open Source project and licensed under MIT for better Web.
 
 ![MIT License](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=for-the-badge)

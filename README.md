@@ -5,6 +5,79 @@
 Stream Dashboard UI Kit is beautiful Open Source Bootstrap 4 Dashboard UI Kit under MIT license. The UI Kit comes with 19 beautiful complete pages and includes over 50 reusable and customizable UI Components. At the same time It’s super lightweight and only ~24kb when minified.
 
 
+### What’s Included
+
+The download package includes .zip folder, please unzip the compressed folder and you’ll find the following directories and files including all raw source files:
+
+```
+stream-dashboard-ui-kit/
+├── assets/
+│   ├── css/
+│   │   ├── theme.css
+│   ├── img/
+│   │   ├── ...
+│   ├── include/
+│   │   ├── scss/
+│   │   │   ├── ...
+│   ├── js/
+│   │   ├── main.js
+│   │   ├── ...
+│   ├── svg/
+│   │   ├── mockups/
+│   │   ├── shapes/
+│   ├── vendor/
+│   │   ├── bootstrap/
+│   │   ├── chartist-js/
+│   │   ├── ...
+├── README.md
+├── .gitignore
+├── favicon.ico
+├── index.html
+├── ui-typography.html
+├── ui-colors.html
+├── ui-alerts.html
+├── ui-buttons.html
+├── ui-cards.html
+├── ui-modals.html
+├── ui-tooltips-and-popovers.html
+├── ui-others.html
+├── forms.html
+├── tables.html
+├── account-profile.html
+├── account-sign-up.html
+├── account-sign-in.html
+├── account-password-recover.html
+├── blank.html
+├── 404.html
+├── 500.html
+
+```
+
+
+### Core Features
+
+- Moden Design
+- Fully Responsive
+- SASS
+- BEM
+- Gulp
+- Pie Charts
+- Area Charts
+- Custom Scrollbar
+- Fixed Sidebar
+- Sidebar Mini
+- Show/Hide Sidebar
+- Profile
+- Beautiful Widgets
+- Account Pages
+- Quality code
+- Reusable Components
+- Beautiful 404 & 500 Error Pages
+- Free Logo & Images
+- Font Awesome Icons
+- and many others..
+
+
 ### Online Documentation
 
 Stream UI Kit comes with quick to start documentation, here is a link to [online documentation](https://htmlstream.com/preview/stream-dashboard-ui-kit/docs.html)
